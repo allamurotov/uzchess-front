@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25b28adf-8a23-44b5-8ec0-4f9e8e9a09c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uzchess_nextjs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Board.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Certificate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Frame 427318502.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/cart add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/forgot-password/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/forgot-password/reset/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/forgot-password/verify/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/sign-in/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/sign-up/complete/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/sign-up/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/sign-up/verify/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/carts/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/contact/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/courses/[id]/certificate/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/courses/[id]/lesson/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/not-found.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/profile/courses/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/profile/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/profile/orders/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/profile/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/profile/saved/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/profile/settings/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/auth/components/AuthCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/auth/components/AuthTabs.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/auth/components/OtpBoxes.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/auth/components/PasswordField.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/auth/components/PhoneField.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/auth/components/SpinnerIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/carts/components/Cart-from.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/carts/components/CartItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/carts/components/CartSummary.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/carts/components/OrderSuccessModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/contact/components/ContactDetail.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/course/components/LessonView.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/home/components/ChessComBanner.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/home/components/CourseBanners.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/home/components/DailyGame.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/home/components/NewsList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/home/components/PlayerRating.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/home/components/SidebarPromo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/home/components/TopBooks.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/home/components/TopCourses.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/home/components/UpcomingGames.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/profile/components/ProfileCourses.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/profile/components/ProfileOrders.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/profile/components/ProfileSaved.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/profile/components/ProfileSettings.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/shared/components/AuthModal/AuthModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/shared/components/AuthPanel/AuthRightPanel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/saved.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/user.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/courses/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/courses/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/courses/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/courses/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/library/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/library/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/main/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/main/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/news/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/news/[id]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/news/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/news/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/course/components/CourseCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/course/components/CourseCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/course/components/CourseDetail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/course/components/CourseDetail.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/course/components/CourseReviews.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/course/components/CourseReviews.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/library/components/BookCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/library/components/BookCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/library/components/BookDetail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/library/components/BookDetail.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/library/components/BookReviews.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/library/components/BookReviews.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/news/components/NewsCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/news/components/NewsCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/shared/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/shared/components/Header/Header.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3E1sThoBSSFijwhWLke9N1pyQpq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "js.debugger.nextJs.config.created.client": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/uzchess_nextjs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Users\\user\\Desktop\\uzchess_nextjs\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\WebstormProjects\frontend\uzchess_nextjs\public" />
+      <recent name="C:\Users\Acer\WebstormProjects\frontend\uzchess_nextjs\src\features\main\components" />
+      <recent name="C:\Users\Acer\WebstormProjects\frontend\uzchess_nextjs\src\features\course\components" />
+      <recent name="C:\Users\Acer\WebstormProjects\frontend\uzchess_nextjs\src" />
+      <recent name="C:\Users\Acer\WebstormProjects\frontend\uzchess_nextjs\src\features\shared" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\WebstormProjects\frontend\uzchess_nextjs\public" />
+      <recent name="C:\Users\Acer\WebstormProjects\frontend\uzchess_nextjs\src\features\auth" />
+      <recent name="C:\Users\Acer\WebstormProjects\frontend\uzchess_nextjs\src" />
+      <recent name="C:\Users\Acer\WebstormProjects\frontend\uzchess_nextjs\src\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-WS-252.28539.21" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25b28adf-8a23-44b5-8ec0-4f9e8e9a09c6" name="Changes" comment="" />
+      <created>1779357421223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779357421223</updated>
+      <workItem from="1779357422223" duration="7705000" />
+      <workItem from="1779374059746" duration="8000" />
+      <workItem from="1779374351297" duration="4000" />
+      <workItem from="1780066146742" duration="7862000" />
+      <workItem from="1780401405860" duration="25000" />
+      <workItem from="1780470267192" duration="27999000" />
+      <workItem from="1780562370735" duration="44539000" />
+      <workItem from="1780679582125" duration="42945000" />
+      <workItem from="1780847676135" duration="28293000" />
+      <workItem from="1780934547022" duration="19256000" />
+      <workItem from="1780992517988" duration="27334000" />
+      <workItem from="1782213302662" duration="1820000" />
+      <workItem from="1782290779384" duration="10125000" />
+      <workItem from="1782310887934" duration="13509000" />
+      <workItem from="1782361954993" duration="865000" />
+      <workItem from="1782362844179" duration="49534000" />
+      <workItem from="1782488210300" duration="30041000" />
+      <workItem from="1782667823318" duration="2634000" />
+      <workItem from="1782706675004" duration="7502000" />
+      <workItem from="1782731860243" duration="2745000" />
+      <workItem from="1782735288309" duration="603000" />
+      <workItem from="1782736463806" duration="289000" />
+      <workItem from="1782736765260" duration="4146000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="next.config.ts" />
+  </component>
+</project>
